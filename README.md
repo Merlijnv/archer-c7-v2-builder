@@ -1,6 +1,6 @@
 # Archer C7 v2 Builder
 
-Build OpenWrt for Archer C7 v2 router.
+Build OpenWrt for Archer C7 v2 router forked.
 
 ## Usage
 
