@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     if: github.event.repository.owner.id == github.event.sender.id
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 600
     env:
       BUILD_CFG_LOW_SPACE: "true"
